@@ -1,0 +1,8 @@
+streamlit
+pandas
+pydantic
+fpdf
+pdfplumber
+plotly
+watchdog
+Faker
